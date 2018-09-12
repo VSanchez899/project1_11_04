@@ -73,5 +73,11 @@ function getRequestObject() {
     return httpRequest;
 }
 
+function checkButtons() {
+    
+}
+
+
+
 //global variables
 var httpRequest = false;
